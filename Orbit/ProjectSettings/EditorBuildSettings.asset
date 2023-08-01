@@ -39,6 +39,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Level 8.unity
     guid: 7c4a670bab98f1240ae27c2dd1879cbb
   - enabled: 1
+    path: Assets/Scenes/Battery Level.unity
+    guid: ea3956093249434499ea530f9ee8f98a
+  - enabled: 1
     path: Assets/Scenes/Level 9.unity
     guid: f13f456fe8021e64b8431da5f22b6666
   - enabled: 1
